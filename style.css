@@ -80,6 +80,7 @@ header{}
             width: 365px;
             height: 238px;
             border-radius: 27px;
+            box-shadow: 5px 5px 5px #f3e998;
 }
 .banner h1{
        padding-top: 23px;
