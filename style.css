@@ -133,7 +133,7 @@ footer{display: flex;flex-wrap: wrap;margin-top: 100px;margin-bottom: -34px;/* m
     padding-right: 14px;
     text-transform: uppercase;
 }
-.container3 .social-link ul li a{}
+.container3 .social-link ul li a{ }
 
 
 
